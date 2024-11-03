@@ -122,7 +122,7 @@ WCS is a very polemic and complicated glitch, [enabled by QoL](#module-field-tog
 It has various uses, especially maintaining dash speed in NMG, but for us it’s main application is that, while on the wall cling state, we can wall jump in the air far away from a wall. We have two consistent ways of getting WCS.
 
 The first consists in hugging a wall, slashing it and canceling the knockback by opening your inventory:  
-\[1wcs-nail.mp4\]
+<iframe src="https://drive.google.com/file/d/18-S8gI5KEVvwNdhCe-i0S58Pw8XhrwIN/preview" width="640" height="480" allow="autoplay"></iframe>
 
 The second is by hugging a wall, slashing it and then tapping the direction to the wall just enough to get close to it:  
 \[2wcs-walk.mp4\]
